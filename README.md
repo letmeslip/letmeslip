@@ -13,13 +13,13 @@
 │   └── Proxmox VE
 │       ├── DNS
 │       │   └── AdGuard Home
-|       |
+│       │
 │       ├── Web Server
 │       │   ├── WordPress
 │       │   ├── Nginx
 │       │   ├── PHP
 │       │   └── MariaDB
-|       |
+│       │
 │       └── Home Assistant
 │
 ↕ TailScale VPN
