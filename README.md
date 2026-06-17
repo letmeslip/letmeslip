@@ -8,8 +8,6 @@
 
 ## 環境
 
-# 🏠 Home Lab
-
 ```text
 ├── 🏠 自宅
 │   └── Proxmox VE
