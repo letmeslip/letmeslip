@@ -2,16 +2,44 @@
 郵便局員からインフラエンジニアへ転職活動中。
 自宅と実家に1台ずつProxmoxのホームラボを構築、運用してます。
 
-## 環境
-
-- 自宅ホームラボ：Proxmox VE × 2台（自宅 / 実家）
-- 拠点間VPN：Tailscale
-- 外部公開：Cloudflare Tunnel + Nginx
-- スマートホーム：Home Assistant + Zigbee + SwitchBot + Sesame5
-
-## 資格（取得予定）
+## 資格
 
 - LPIC Level1 101合格 102勉強中
+
+## 環境
+
+# 🏠 Home Lab
+
+```text
+├── 🏠 自宅
+│   └── Proxmox VE
+│       ├── DNS
+│       │   └── AdGuard Home
+|       |
+│       ├── Web Server
+│       │   ├── WordPress
+│       │   ├── Nginx
+│       │   ├── PHP
+│       │   └── MariaDB
+|       |
+│       └── Home Assistant
+│
+↕ TailScale VPN
+│
+└── 🏡 実家
+    └── Proxmox VE
+        ├── Windows 10 (GPU Passthrough)
+        │   └── Client Environment
+        │
+        ├── TrueNAS
+        │   └── 4TB HDD ×2 (ZFS Mirror / Passthrough)
+        │
+        ├── AlmaLinux (勉強用)
+        │
+        └── Arch Linux (勉強用)
+```
+
+
 
 ## ブログ
 
