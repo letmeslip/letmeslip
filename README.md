@@ -36,11 +36,4 @@
         │
         └── Arch Linux (勉強用)
 ```
-
-
-
-## ブログ
-
-[rem.nonrem.net](https://rem.nonrem.net)
-
 <!-- 鍵認証でgit使ってみるテスト -->
