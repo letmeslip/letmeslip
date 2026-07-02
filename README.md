@@ -7,7 +7,6 @@
 - 26歳
 - LPIC Level1 101合格 102勉強中
 - 自宅・実家でProxmoxを運用
-- 自宅サーバーでWordPress公開中
 
 ## 環境
 
