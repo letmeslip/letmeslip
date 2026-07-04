@@ -14,20 +14,22 @@
 Tailscale
 ├── Home
 |    └──Proxmox
-│        ├── 101-LXC-AdGuard Home
-│        ├── 102-LXC-Nginx Proxy Manager
-│        ├── 103-LXC-PostgreSQL
-│        ├── 104-LXC-HomepageDashboard
-│        ├── 105-LXC-Hermes Agent
-│        ├── 121-VM-Docker
-│        └── 123-VM-HomeAssistant
+│        ├── 101 LXC  -AdGuard Home
+│        ├── 102 LXC - Nginx Proxy Manager
+│        ├── 103 LXC - PostgreSQL
+│        ├── 104 LXC - HomepageDashboard
+│        ├── 105 LXC - Hermes Agent
+│        ├── 121 VM  - Docker
+│        └── 123 VM  - HomeAssistant
 │
 ├── Osaka
 |    └── Proxmox
-│        ├── 101-VM-Windows
-│        └── 102-VM-TrueNAS
+│        ├── 101 VM  - Windows
+│        └── 102 VM  - TrueNAS
 │
 └── AWS
-     └── Ubuntu-Grafana/Prometheus
+     └── EC2 Ubuntu  - Monitoring
+         ├── Grafana
+         └── Prometheus
 ```
 <!-- 鍵認証でgit使ってみるテスト -->
