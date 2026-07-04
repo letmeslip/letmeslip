@@ -14,7 +14,7 @@
 Tailscale
 ├── Home
 |    └──Proxmox
-│        ├── 101 LXC  -AdGuard Home
+│        ├── 101 LXC - AdGuard Home
 │        ├── 102 LXC - Nginx Proxy Manager
 │        ├── 103 LXC - PostgreSQL
 │        ├── 104 LXC - HomepageDashboard
