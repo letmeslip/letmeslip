@@ -11,31 +11,21 @@
 ## 環境
 
 ```text
-├── 🏠 自宅
-│   └── Proxmox VE
-│       ├── DNS
-│       │   └── AdGuard Home
-│       │
-│       ├── Web Server
-│       │   ├── WordPress
-│       │   ├── Nginx
-│       │   ├── PHP
-│       │   └── MariaDB
-│       │
-│       └── Home Assistant
+Tailscale
+├── HomeProxmox
+│  ├── AdGuard Home
+│  ├── Nginx Proxy Manager
+│  ├── PostgreSQL
+│  ├── HomepageDashboard
+│  ├── Hermes Agent
+│  ├── Docker
+│  └── HomeAssistant
 │
-↕ TailScale VPN
+├── OsakaProxmox
+│  ├── Windows10
+│  └── TrueNAS
 │
-└── 🏡 実家
-    └── Proxmox VE
-        ├── Windows 10 (GPU Passthrough)
-        │   └── Client Environment
-        │
-        ├── TrueNAS
-        │   └── 4TB HDD ×2 (ZFS Mirror / Passthrough)
-        │
-        ├── AlmaLinux (勉強用)
-        │
-        └── Arch Linux (勉強用)
+└── AWS
+   └── Grafana/Prometheus
 ```
 <!-- 鍵認証でgit使ってみるテスト -->
