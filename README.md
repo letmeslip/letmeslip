@@ -12,20 +12,22 @@
 
 ```text
 Tailscale
-├── HomeProxmox
-│  ├── AdGuard Home
-│  ├── Nginx Proxy Manager
-│  ├── PostgreSQL
-│  ├── HomepageDashboard
-│  ├── Hermes Agent
-│  ├── Docker
-│  └── HomeAssistant
+├── Home
+|    └──Proxmox
+│        ├── AdGuard Home
+│        ├── Nginx Proxy Manager
+│        ├── PostgreSQL
+│        ├── HomepageDashboard
+│        ├── Hermes Agent
+│        ├── Docker
+│        └── HomeAssistant
 │
-├── OsakaProxmox
-│  ├── Windows10
-│  └── TrueNAS
+├── Osaka
+|    └── Proxmox
+│        ├── Windows10
+│        └── TrueNAS
 │
 └── AWS
-   └── Grafana/Prometheus
+     └── Grafana/Prometheus
 ```
 <!-- 鍵認証でgit使ってみるテスト -->
