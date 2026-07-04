@@ -24,7 +24,7 @@ Tailscale
 │
 ├── Osaka
 |    └── Proxmox
-│        ├── 101-VM-Windows10
+│        ├── 101-VM-Windows
 │        └── 102-VM-TrueNAS
 │
 └── AWS
